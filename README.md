@@ -10,6 +10,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding-gif" />
 </p>
+
 ---
 
 ### 🔍 About Me
@@ -76,8 +77,9 @@ If you vibe with data, dev, or just wanna collab on cool stuff:
 ### 🧠 What My Code Feels Like
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="400" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTB6dGRkb3locnpxa21tcDFocmd6a250b21rbTM1b2dhNGNqZTVlZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1dNlVF8aKEpFX9eDNt/giphy.gif" width="400" />
 </p>
+
 ---
 
 ### 📊 Languages I Use Most
