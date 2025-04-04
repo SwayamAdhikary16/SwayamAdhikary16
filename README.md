@@ -4,6 +4,10 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=swayamadhikary16&label=Profile%20views&color=0e75b6&style=flat" alt="swayamadhikary16" />
 </p>
+<h3 align="left">⌨️ Currently Vibing with Code:</h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding-gif" />
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,12 +21,6 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="swayamystic" height="30" width="40" />
   </a>
 </p>
-
-<h3 align="left">⌨️ Currently Vibing with Code:</h3>
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding-gif" />
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
