@@ -56,7 +56,8 @@ If you vibe with data, dev, or just wanna collab on cool stuff:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/>
+  <img src="https://iconduck.com/icons/27362/flask" alt="Flask" width="40" height="40"/>
+  <img src="[https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3Dsqlite&psig=AOvVaw0bReKA2A2vDBkFKCx_yzpz&ust=1743844805283000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKi5jKOGvowDFQAAAAAdAAAAABAE)" alt="SQLite" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
