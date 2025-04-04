@@ -90,12 +90,4 @@ If you vibe with data, dev, or just wanna collab on cool stuff:
 
 ---
 
-### 🔥 Contribution Heat
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swayamadhikary16&theme=default" />
-</p>
-
----
-
 > “If it ain't scalable, it ain't lovable.” – Probably Me
