@@ -6,6 +6,11 @@
 </p>
 
 ---
+<h3 align="left">⌨️ Currently Vibing with Code:</h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding-gif" />
+</p>
+---
 
 ### 🔍 About Me
 
@@ -71,9 +76,8 @@ If you vibe with data, dev, or just wanna collab on cool stuff:
 ### 🧠 What My Code Feels Like
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="400" />
 </p>
-
 ---
 
 ### 📊 Languages I Use Most
