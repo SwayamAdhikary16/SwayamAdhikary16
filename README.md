@@ -2,6 +2,7 @@
 <h3 align="center">🚀 Data to Decisions | Dev from the streets of SQL to the clouds of AWS ☁️</h3>
 <h3 align="center"> 🌐💻 Exploring DevOps stuff 💻🌐
 🚀💼 Diving into the corporate world 💼🚀 </h3>
+<h3 align="center"> Analyst by day 🌅 Overthinker super power by night🌃</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=swayamadhikary16&label=people+spying+on+my+code&color=0e75b6&style=flat" alt="swayamadhikary16" />
