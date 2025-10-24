@@ -32,7 +32,7 @@
 
 ---
 
-### 🧠 Baddies, Nerds & Recruiters – Connect with me 👇  
+### 🧠 Connect with me 👇  
 If you vibe with data, dev, or just wanna collab on cool stuff:
 
 <p align="left">
